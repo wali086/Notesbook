@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Notesbook - Note Taking Application
 
 
@@ -118,3 +119,7 @@ notesbook/
 
 └── pom.xml # Maven dependencies
 
+=======
+# Notesbook
+Notesbook - Note Taking Application
+>>>>>>> 889428747fb68b2a1d43db18695026145895bf51
